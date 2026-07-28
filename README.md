@@ -65,6 +65,6 @@ npm run dev
 
 ## 👩‍💻 Author
 
-**Zahra**
+**Fathima Zahra**
 
 GitHub: https://github.com/fathimazahravr
